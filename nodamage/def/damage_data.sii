@@ -1,0 +1,28 @@
+SiiNunit {
+	vehicle_damage_data : .damage_data {
+		truck_damage_coef: 0
+		trailer_damage_coef: 0
+		dragged_trailer_damage_coef: 0
+		truck_to_trailer_dmg: 0
+
+		side_damage_factor: 0
+		roof_damage_factor: 0
+
+		cabin_damage_ratio: 0
+		chassis_damage_ratio: 0
+		engine_damage_ratio: 0
+		transmission_damage_ratio: 0
+		wheel_damage_ratio: 0
+
+		cabin_wear: 0
+		chassis_wear: 0
+		engine_wear: 0
+		transmission_wear: 0
+		wheel_wear: 0
+
+		trailer_body_damage_ratio: 0
+		trailer_chassis_damage_ratio: 0
+		trailer_wheel_damage_ratio: 0
+		cargo_damage_ratio: 0
+	}
+}

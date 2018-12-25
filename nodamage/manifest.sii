@@ -1,0 +1,12 @@
+SiiNunit {
+	mod_package : .package_name {
+		display_name: "No Damage Mod"
+		author: "rasmusolle"
+		package_version: "1.0"
+
+		category[]: "other"
+
+		icon: "icon.jpg"
+		description_file: "description.txt"
+	}	
+}
