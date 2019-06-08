@@ -1,5 +1,5 @@
 SiiNunit {
-	package_version_info : .universal {
-		package_name: "nodamage"
+	package_version_info : .latest {
+		package_name: "latest"
 	}
 }

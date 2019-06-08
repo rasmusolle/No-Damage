@@ -1,5 +1,0 @@
-This mod disables all damage to your truck, trailer and cargo.
-
-[orange]Notes:[normal]
-
-If the mod doesn't seem to be working, put the mod at the very top of the mod loading order.
